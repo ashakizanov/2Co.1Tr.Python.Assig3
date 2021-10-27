@@ -2,7 +2,7 @@
 
 ## TITLE
 
-Assignment 3
+#Assignment 3
 
 ## Installation
 PyPl
@@ -25,7 +25,10 @@ import jwt
 ```
 
 #Examples
+```bash
 https://github.com/miguelgrinberg/flask-examples
+https://realpython.com/flask-by-example-part-1-project-setup/
+```
 
 ##Sources
 ```bash
