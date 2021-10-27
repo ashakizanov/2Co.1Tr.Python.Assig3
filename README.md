@@ -2,7 +2,7 @@
 
 ## TITLE
 
-# Assignment 3
+Assignment 3
 
 ## Installation
 PyPl
@@ -36,3 +36,6 @@ pyjwt (https://pyjwt.readthedocs.io/en/stable/)
 flask (https://flask.palletsprojects.com/en/2.0.x/)
 flask_sqlalchemy (https://flask-sqlalchemy.palletsprojects.com/en/2.x/)
 ```
+# Done by
+Amirkhan Shakizan
+Altair Tussupov
